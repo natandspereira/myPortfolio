@@ -7,4 +7,9 @@
     outline: none;
     box-sizing: none;
     font-family: "Poppins", sans-serif;
+    
+}
+
+body{
+    background-color:#212529;
 }
